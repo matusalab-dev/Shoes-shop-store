@@ -1,0 +1,19 @@
+.hero {
+    padding: 11em 0 4em 0;
+    min-height: 100vh;
+    background: black;
+    background: url(/img/shoe-3.png),
+    radial-gradient(#444, #111);
+    background-attachment: fixed;
+    background-blend-mode: multiply; 
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 100%;
+    background-position: center center;
+    text-align: center;
+}
+
+.main {
+    margin-bottom: 3em;
+    
+}

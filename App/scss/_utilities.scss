@@ -1,0 +1,16 @@
+.container {
+  width: 85%;
+  max-width: 60em;
+  margin: 0 auto;
+}
+.spacing > * + * {
+  margin-top: 3.5em;
+}
+.spacing--lg > * + *{
+    margin-top: 6.3em;
+}
+
+// typography
+.text-center{
+    text-align: center;
+}
